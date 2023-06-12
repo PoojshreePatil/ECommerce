@@ -1,0 +1,29 @@
+body{
+   /* background-color: red; */
+   text-align: center;
+  /* height: 100%; 
+  width: 100%; */
+  /* background-image: url('./images/backgroundImg1.jpg');  */
+  /* margin-left: 20px; */
+  padding-left: 20px;
+  margin-left: 20px;
+  background-position: auto;
+}
+.login{
+    line-height: 1;
+}
+.button{
+    padding-top: 20px;
+}
+.container{
+    border: 2px solid rgb(0, 195, 255); 
+    margin-left:5%;
+    margin-top: 10px;
+     height: 800px; 
+     width: 1600px;
+    text-align: center;
+    padding-top:250px;
+    border-radius: 10px;
+    background-image: url('./images/backgroundImg1.jpg');  
+    padding-left: 80px;
+}
